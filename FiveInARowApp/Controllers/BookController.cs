@@ -22,13 +22,35 @@ namespace FiveInARowApp.Controllers
             {
                 books = bookRepository.SelectAll() as IList<Book>;
             }
-                return View(books);
+
+            //sort by title unless posted as a new sort
+            switch (sortOrder)
+            {
+                case "Title":
+                    books = books.OrderBy(book => book.Title);
+                    break;
+                case "Author":
+                    books = books.OrderBy(book => book.Author);
+                    break;
+                default:
+                    break;
+            }
+            return View(books);
         }
 
         // GET: Book/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            //instantiate a repository
+            BookRepository bookRepository = new BookRepository();
+            Book book = new Book();
+
+            //get a book that has the matching Id
+            using (bookRepository)
+            {
+                book = bookRepository.SelectOne(id);
+            }
+                return View(book);
         }
 
         // GET: Book/Create

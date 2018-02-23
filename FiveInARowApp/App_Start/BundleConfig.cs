@@ -25,6 +25,9 @@ namespace FiveInARowApp
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      
+                      "~/Content/new-age.css",
+
                       "~/Content/site.css"));
         }
     }

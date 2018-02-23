@@ -4,31 +4,21 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Listing Page</h2>
 
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
 <table class="table">
     <tr>
+        
         <th>
-            @Html.DisplayNameFor(model => model.ISBN)
+            @Html.ActionLink(@Html.DisplayNameFor(model => model.Title).ToHtmlString(), "Index", new { sortOrder = "Title" })
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Title)
+            @Html.ActionLink(@Html.DisplayNameFor(model => model.Author).ToHtmlString(), "Index", new {sortOrder = "Author"})
         </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Author)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Illustrator)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Copyright)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Category)
-        </th>
+      
         <th>
             @Html.DisplayNameFor(model => model.Summary)
         </th>
@@ -40,24 +30,14 @@
 
 @foreach (var item in Model) {
     <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.ISBN)
-        </td>
+        
         <td>
             @Html.DisplayFor(modelItem => item.Title)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Author)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Illustrator)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Copyright)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Category)
-        </td>
+        
         <td>
             @Html.DisplayFor(modelItem => item.Summary)
         </td>
@@ -65,9 +45,9 @@
             @Html.DisplayFor(modelItem => item.Topics)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Details", "Details", new {id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
         </td>
     </tr>
 }
