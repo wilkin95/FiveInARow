@@ -51,3 +51,4 @@ C:\Users\twilk\Desktop\CIT 218\FiveInARowApp\FiveInARowApp\bin\Newtonsoft.Json.x
 C:\Users\twilk\Desktop\CIT 218\FiveInARowApp\FiveInARowApp\obj\Debug\FiveInARowApp.csprojResolveAssemblyReference.cache
 C:\Users\twilk\Desktop\CIT 218\FiveInARowApp\FiveInARowApp\obj\Debug\FiveInARowApp.dll
 C:\Users\twilk\Desktop\CIT 218\FiveInARowApp\FiveInARowApp\obj\Debug\FiveInARowApp.pdb
+C:\Users\twilk\Desktop\CIT 218\FiveInARowApp\FiveInARowApp\obj\Debug\FiveInARowApp.csproj.CoreCompileInputs.cache

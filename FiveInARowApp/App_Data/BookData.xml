@@ -2,6 +2,7 @@
 
 <Books>
   <Book>
+    <Id>1</Id>
     <ISBN>9780448421650</ISBN>
     <Title>The Story About Ping</Title>
     <Author>Marjorie Flack</Author>
@@ -13,6 +14,7 @@
   </Book>
 
   <Book>
+    <Id>2</Id>
     <ISBN>9780140502879</ISBN>
     <Title>Lentil</Title>
     <Author>Robert McCloskey</Author>
@@ -24,6 +26,7 @@
   </Book>
 
   <Book>
+    <Id>3</Id>
     <ISBN>9781930900202</ISBN>
     <Title>A Pair of Red Clogs</Title>
     <Author>Masako Matsuno </Author>
@@ -35,6 +38,7 @@
   </Book>
 
   <Book>
+    <Id>4</Id>
     <ISBN>9780316574075</ISBN>
     <Title>The Rag Coat</Title>
     <Author>Lauren Mills</Author>
@@ -46,6 +50,7 @@
   </Book>
 
   <Book>
+    <Id>5</Id>
     <ISBN>0933849826</ISBN>
     <Title>Who Owns the Sun?</Title>
     <Author>Stacy Chbosky</Author>
@@ -57,6 +62,7 @@
   </Book>
 
   <Book>
+    <Id>6</Id>
     <ISBN> 9780618840199 </ISBN>
     <Title>Mike Mulligan and His Steam Shovel</Title>
     <Author>Virginia Lee Burton</Author>
@@ -68,6 +74,7 @@
   </Book>
 
   <Book>
+    <Id>7</Id>
     <ISBN> 9780140507294 </ISBN>
     <Title>The Glorious Flight</Title>
     <Author>Alice and Martin Provensen</Author>
@@ -79,6 +86,7 @@
   </Book>
 
   <Book>
+    <Id>8</Id>
     <ISBN> 9780679880837 </ISBN>
     <Title>How to Make an Apple Pie and See the World</Title>
     <Author>Marjorie Priceman</Author>
@@ -90,6 +98,7 @@
   </Book>
 
   <Book>
+    <Id>9</Id>
     <ISBN>319095683</ISBN>
     <Title>Grandfather’s Journey</Title>
     <Author>Allen Say</Author>
@@ -101,6 +110,7 @@
   </Book>
 
   <Book>
+    <Id>10</Id>
     <ISBN>1930900635</ISBN>
     <Title>Cranberry Thanksgiving</Title>
     <Author>Wende and Harry Devlin</Author>
@@ -112,6 +122,7 @@
   </Book>
 
   <Book>
+    <Id>11</Id>
     <ISBN>1930900503</ISBN>
     <Title>Another Celebrated Dancing Bear</Title>
     <Author>Gladys Scheffrin-Falk</Author>
@@ -123,6 +134,7 @@
   </Book>
 
   <Book>
+    <Id>12</Id>
     <ISBN> 1559420286</ISBN>
     <Title>Papa Piccolo</Title>
     <Author>Carol Talley</Author>
@@ -134,6 +146,7 @@
   </Book>
 
   <Book>
+    <Id>13</Id>
     <ISBN>1102227481</ISBN>
     <Title>Very Last First Time</Title>
     <Author>Jan Andrews</Author>
@@ -145,6 +158,7 @@
   </Book>
 
   <Book>
+    <Id>14</Id>
     <ISBN>9780156181921</ISBN>
     <Title>Clown of God</Title>
     <Author>Tomie dePaola</Author>
@@ -156,6 +170,7 @@
   </Book>
 
   <Book>
+    <Id>15</Id>
     <ISBN>9780064432566</ISBN>
     <Title>Storm in the Night</Title>
     <Author>Mary Stolz</Author>
@@ -167,6 +182,7 @@
   </Book>
 
   <Book>
+    <Id>16</Id>
     <ISBN>9780395181553</ISBN>
     <Title>Katy and the Big Snow</Title>
     <Author>Virginia Lee Burton</Author>
@@ -178,6 +194,7 @@
   </Book>
 
   <Book>
+    <Id>17</Id>
     <ISBN>9780671775650</ISBN>
     <Title> Night of the Moonjellies </Title>
     <Author>Mark Shasha</Author>
@@ -189,6 +206,7 @@
   </Book>
 
   <Book>
+    <Id>18</Id>
     <ISBN>0525467343</ISBN>
     <Title>Stopping By Woods on a Snowy Evening</Title>
     <Author>Robert Frost</Author>
