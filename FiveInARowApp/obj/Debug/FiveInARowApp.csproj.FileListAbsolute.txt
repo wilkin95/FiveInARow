@@ -106,3 +106,7 @@ C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\obj\Debug\FiveInARowA
 C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\obj\Debug\FiveInARowApp.csproj.CoreCompileInputs.cache
 C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\obj\Debug\FiveInARowApp.dll
 C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\obj\Debug\FiveInARowApp.pdb
+C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\bin\PagedList.dll
+C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\bin\PagedList.Mvc.dll
+C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\bin\PagedList.xml
+C:\Users\twilk\Desktop\FiveInARow\FiveInARow\FiveInARowApp\bin\PagedList.Mvc.xml

@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Five-In-A-Row</h1>
+    </div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>What It Is</h2>
+        <p>A learning-through-literature series that utilizes award winning children's literature to teach Social Studies, Language, Art, Applied Math, and Science.</p>
+        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-6">
+        <h2>How to Get Started</h2>
+        <p>To view a list of books, click the button below.</p>
+        <button type="button" onclick="location.href='@Url.Action("Index", "Book")'" class="btn">Book List</button>
+    </div>
+    
+</div>

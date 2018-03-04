@@ -20,7 +20,7 @@
  */
 
 /*! normalize.css v2.1.0 | MIT License | git.io/normalize */
-
+ 
 article,
 aside,
 details,
@@ -64,7 +64,7 @@ body {
 a:focus {
   outline: thin dotted;
 }
-
+ 
 a:active,
 a:hover {
   outline: 0;
@@ -183,6 +183,7 @@ input[type="reset"],
 input[type="submit"] {
   cursor: pointer;
   -webkit-appearance: button;
+  margin-bottom: 5px;
 }
 
 button[disabled],
@@ -233,7 +234,7 @@ table {
   }
   a,
   a:visited {
-    text-decoration: underline;
+    text-decoration: none;
   }
   a[href]:after {
     content: " (" attr(href) ")";
@@ -335,7 +336,7 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: #ea8d09
   text-decoration: none;
 }
 
@@ -1999,9 +2000,9 @@ textarea.input-lg {
 
 .btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 6px 10px;
   margin-bottom: 0;
-  font-size: 14px;
+  font-size: 10px;
   font-weight: normal;
   line-height: 1.428571429;
   text-align: center;
@@ -2091,7 +2092,7 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #428bca;
+  background-color: #ea8d09
   border-color: #357ebd;
 }
 
@@ -2126,7 +2127,7 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #428bca;
+  background-color: #ea8d09
   border-color: #357ebd;
 }
 
@@ -2296,7 +2297,7 @@ fieldset[disabled] .btn-info.active {
 
 .btn-link {
   font-weight: normal;
-  color: #428bca;
+  color: #ea8d09;
   cursor: pointer;
   border-radius: 0;
 }
@@ -2342,7 +2343,7 @@ fieldset[disabled] .btn-link:focus {
 .btn-sm,
 .btn-xs {
   padding: 5px 10px;
-  font-size: 12px;
+  font-size: 10px;
   line-height: 1.5;
   border-radius: 3px;
 }
@@ -3932,7 +3933,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #428bca;
+  background-color: #ea8d09;
 }
 
 .nav-stacked > li {
@@ -4684,18 +4685,18 @@ textarea.input-group-sm > .input-group-btn > .btn {
   background-color: #eeeeee;
 }
 
-.pagination > .active > a,
-.pagination > .active > span,
-.pagination > .active > a:hover,
-.pagination > .active > span:hover,
-.pagination > .active > a:focus,
-.pagination > .active > span:focus {
-  z-index: 2;
-  color: #ffffff;
-  cursor: default;
-  background-color: #428bca;
-  border-color: #428bca;
-}
+    .pagination > .active > a,
+    .pagination > .active > span,
+    .pagination > .active > a:hover,
+    .pagination > .active > span:hover,
+    .pagination > .active > a:focus,
+    .pagination > .active > span:focus {
+        z-index: 2;
+        color: #ffffff;
+        cursor: default;
+        background-color: #ea8d09;
+        border-color: #ea8d09;
+    }
 
 .pagination > .disabled > span,
 .pagination > .disabled > a,
@@ -6814,3 +6815,5 @@ td.visible-print {
     display: none !important;
   }
 }
+
+ 

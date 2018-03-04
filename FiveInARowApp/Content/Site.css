@@ -20,5 +20,14 @@
 input,
 select,
 textarea {
-    max-width: 280px;
+    max-width: 280px!important;
+    min-width: 65px!important;
 }
+ 
+ 
+.btn{
+   font-size:10px;
+   letter-spacing: 0px;
+}
+
+a{text-decoration:none;}

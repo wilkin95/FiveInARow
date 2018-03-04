@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
-<Books>
+<?xml version="1.0" encoding="utf-8"?>
+<Books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Book>
     <Id>1</Id>
     <ISBN>9780448421650</ISBN>
@@ -12,7 +11,6 @@
     <Summary>A duck learns there are worse things than taking the consequences for one’s mistakes. </Summary>
     <Topics>Discernment, China, Ducks, Buoyancy, Health and Safety, Reflection of Light</Topics>
   </Book>
-
   <Book>
     <Id>2</Id>
     <ISBN>9780140502879</ISBN>
@@ -24,7 +22,6 @@
     <Summary>A boy discovers that he has a special talent and using it makes a difference.  </Summary>
     <Topics>Ohio, Human Relationships, War Monuments, Patriotism, Harmonica, Architecture, Taste Buds, Sound and Acoustics</Topics>
   </Book>
-
   <Book>
     <Id>3</Id>
     <ISBN>9781930900202</ISBN>
@@ -36,7 +33,6 @@
     <Summary>Mako receives a new pair of shoes and learns the importance of honesty.</Summary>
     <Topics> Japan, Honesty, Weather, Architecture, Islands</Topics>
   </Book>
-
   <Book>
     <Id>4</Id>
     <ISBN>9780316574075</ISBN>
@@ -48,7 +44,6 @@
     <Summary>Minna needs a coat for school, and finds acceptance through forgiveness and wisdom.</Summary>
     <Topics> Eastern U.S., Appalachian mountains, Appalachian Life, Human Relationships, Funeral and Mourning, Quilts, Geometric Shapes, Coal, Natural Fabrics </Topics>
   </Book>
-
   <Book>
     <Id>5</Id>
     <ISBN>0933849826</ISBN>
@@ -60,7 +55,6 @@
     <Summary>A young boy learns a hard truth, yet perseveres.</Summary>
     <Topics> Slavery, Civil War, Family Relationships, Seasons, Simple Machines, Five Senses, Memory and Nutrition </Topics>
   </Book>
-
   <Book>
     <Id>6</Id>
     <ISBN> 9780618840199 </ISBN>
@@ -72,7 +66,6 @@
     <Summary>Mike Mulligan and his steam shovel triumph in changing times.</Summary>
     <Topics>Industrial History, Steam Power, Character-Flexibility, Geometry, Construction, Road Engineering </Topics>
   </Book>
-
   <Book>
     <Id>7</Id>
     <ISBN> 9780140507294 </ISBN>
@@ -84,7 +77,6 @@
     <Summary>Papa Bleriot overcomes many obstacles in achieving his goal of flying.</Summary>
     <Topics>Family Relations, France, England, History, Flying, Invention</Topics>
   </Book>
-
   <Book>
     <Id>8</Id>
     <ISBN> 9780679880837 </ISBN>
@@ -96,7 +88,6 @@
     <Summary>An apple pie is an easy thing to make as long as you have the ingredients. If not, hang on!</Summary>
     <Topics>Europe, Italy, France, Sri Lanka, England, Jamaica, Vermont, Liquid and Dry Measure, Baking, Salt and Evaporation, Fresh Food</Topics>
   </Book>
-
   <Book>
     <Id>9</Id>
     <ISBN>319095683</ISBN>
@@ -108,7 +99,6 @@
     <Summary>A young man understands his Grandfather’s love for both his own home and a foreign land.</Summary>
     <Topics>Family Relationships, Japan, Islands, Pacific Ocean, World War 2, Origami, Land Types, Pollution, Birds</Topics>
   </Book>
-
   <Book>
     <Id>10</Id>
     <ISBN>1930900635</ISBN>
@@ -120,7 +110,6 @@
     <Summary>Maggie’s grandmother learns not to judge a person solely by the smell of seaweed or lavender.</Summary>
     <Topics>New England, Cranberry Bogs, Judging By Appearance, Thanksgiving, Baking, Leavening, Starch, Seasons</Topics>
   </Book>
-
   <Book>
     <Id>11</Id>
     <ISBN>1930900503</ISBN>
@@ -132,7 +121,6 @@
     <Summary>Envy and jealousy are thwarted by a true friend who shares his time and expertise.</Summary>
     <Topics>Russia, Ballet, Communism, Occupations, Hospitality, Architecture, Time, Boiling Point and Freezing Point</Topics>
   </Book>
-
   <Book>
     <Id>12</Id>
     <ISBN> 1559420286</ISBN>
@@ -144,7 +132,6 @@
     <Summary>A tomcat finds responsibilities, joys and satisfaction as he decides to adopt kittens!</Summary>
     <Topics>Venice, Italy, Mediterranean Sea, Architecture, Fatherhood, Marco Polo, Homeless, Adoption, Water Occupations, Peripheral Vision, Cats</Topics>
   </Book>
-
   <Book>
     <Id>13</Id>
     <ISBN>1102227481</ISBN>
@@ -156,7 +143,6 @@
     <Summary>A little girl embarks on a long-awaited privilege and finds it wonderful, frightening, but in the end, rewarding.</Summary>
     <Topics>Ungava Bay, Northern Canada, Atlantic Ocean, Arctic Ocean, Inuit Culture, Family Relationships, First-Time Experiences, Tide, Ocean Life, Simple Machines</Topics>
   </Book>
-
   <Book>
     <Id>14</Id>
     <ISBN>9780156181921</ISBN>
@@ -168,7 +154,6 @@
     <Summary>Clown of God is the retelling of an old legend, a story of a “gift for the Child.”</Summary>
     <Topics>Sorrento, Italy, Renaissance, Orphans, Elderly, Thankfulness, Occupations, Juggling, Architecture, Cooking, Aging, Christ Child</Topics>
   </Book>
-
   <Book>
     <Id>15</Id>
     <ISBN>9780064432566</ISBN>
@@ -180,7 +165,6 @@
     <Summary>Grandfather addresses Thomas’ fear of thunderstorms by vulnerably relating a story of his own childhood.</Summary>
     <Topics>Relationships, Fear, Quilt, Safety, Sources of Light, Five Senses, Aging, Storms, Clouds</Topics>
   </Book>
-
   <Book>
     <Id>16</Id>
     <ISBN>9780395181553</ISBN>
@@ -192,7 +176,6 @@
     <Summary>Katy becomes a heroine as she finally gets her chance to work and fulfills her responsibilities.</Summary>
     <Topics>City Life, Responsibilities, Street Signs, Directions, Weather</Topics>
   </Book>
-
   <Book>
     <Id>17</Id>
     <ISBN>9780671775650</ISBN>
@@ -204,7 +187,6 @@
     <Summary>A seven year old boy helps his grandma at her restaurant and she shares a secret with him.</Summary>
     <Topics>New England, Small Businesses, Responsibility, Life Near the Sea, Money, Moonjellyfish, Aquatic Biome</Topics>
   </Book>
-
   <Book>
     <Id>18</Id>
     <ISBN>0525467343</ISBN>
@@ -216,6 +198,4 @@
     <Summary>A counterpoint of verse and illustration draws the reader gently into a winter night.</Summary>
     <Topics>Poetry, Alliteration, Rhyme, Repetition, Snow, Winter, Horses, Animal Tracks</Topics>
   </Book>
-
 </Books>
-
